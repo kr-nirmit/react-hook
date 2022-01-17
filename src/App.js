@@ -8,10 +8,10 @@ import CounterThree from './Components/CounterThree';
 function App() {
   return (
     <div className="App">
-      {/* <ComponentsA /> */}
+      <ComponentsA />
       {/* <Counter /> */}
       {/* <CounterTwo /> */}
-      <CounterThree />
+      {/* <CounterThree /> */}
     </div>
   );
 }

@@ -4,6 +4,7 @@ import ComponentsC from './ComponentsC'
 function ComponentsB() {
     return (
         <div>
+            ComponentsB
             <ComponentsC />
         </div>
     )
